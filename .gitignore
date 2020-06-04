@@ -1,2 +1,6 @@
 # IDE / Editor config files
 .idea/
+
+# composer files
+composer.lock
+vendor/
