@@ -1,0 +1,22 @@
+{
+  "name": "timlenoh/arrow",
+  "description": "A simple kind of framework to handle injection of services, using latest PHP tech",
+  "type": "package",
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Théo Lemoine",
+      "email": "theo.lemoine0@gmail.com",
+      "homepage": "https://theolemoine.dev"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Arrow\\": "src/"
+    }
+  }
+}
